@@ -4,5 +4,5 @@
   "update_time": "2026-06-12",
   "changelog": "修复版本号过低的BUG",
   "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-  "is_force": true
+  "is_force": false
 }
