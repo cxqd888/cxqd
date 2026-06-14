@@ -4,5 +4,5 @@
   "update_time": "2026-06-13",
   "changelog": "新增隐藏/显示按钮区\n修复版本号过低的BUG",
   "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-  "is_force": false
+  "is_force": true
 }
