@@ -6,11 +6,12 @@
         "修复版本号过低的BUG",
         "修复不存在的BUG",
         "增加更多的BUG",
+        "此版本支持车机桌面v2.6.0，车机桌面无需更新",
         "",
         "如果无法在线更新请用网盘更新或者长按下面链接复制到浏览器打开",
         "网盘链接：https://pan.quark.cn/s/dc5448bff81d"
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
     "md5": "999a9b26aea071bc03b3b727a2c4eec5",
-    "is_force": true
+    "is_force": false
 }
