@@ -5,7 +5,10 @@
     "changelog": [
         "修复版本号过低的BUG",
         "修复不存在的BUG",
-        "增加更多的BUG"
+        "增加更多的BUG",
+        "",
+        "如果无法在线更新请用网盘链接更新",
+        "网盘下载链接：https://pan.quark.cn/s/dc5448bff81d"
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
     "md5": "673e7aedc630bfd6d5e073afce6e243e",
