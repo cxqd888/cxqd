@@ -3,10 +3,10 @@
     "versionName": "v2.7.0",
     "update_time": "2026-06-32",
     "changelog": [
-    "修复版本号过低的BUG",
-    "修复不存在的BUG",
-    "增加更多的BUG"
-    ]
+        "修复版本号过低的BUG",
+        "修复不存在的BUG",
+        "增加更多的BUG"
+    ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
     "md5": "673e7aedc630bfd6d5e073afce6e243e",
     "is_force": false
