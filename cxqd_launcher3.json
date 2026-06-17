@@ -1,6 +1,6 @@
 {
-    "versionCode": 272,
-    "versionName": "v2.7.2",
+    "versionCode": 273,
+    "versionName": "v2.7.3",
     "update_time": "2026-06-17",
     "changelog": [
         "修复一些兼容问题",
@@ -12,6 +12,6 @@
         "网盘维护中，网盘更新暂时不能用"
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-    "md5": "ab0f5397810cc0f50f35024f168dbd8a",
+    "md5": "c30a4d0f03c13b43e4607470f6140864",
     "is_force": false
 }
