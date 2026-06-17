@@ -1,6 +1,6 @@
 {
-    "versionCode": 270,
-    "versionName": "v2.7.0",
+    "versionCode": 271,
+    "versionName": "v2.7.1",
     "update_time": "2026-06-17",
     "changelog": [
         "修复一些兼容问题",
@@ -12,6 +12,6 @@
         "网盘会员过期暂时用不了，需要网盘下载的等几天"
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-    "md5": "de185c3f8752fd6975ead8e41cd5957f",
+    "md5": "3351676d6a851b225d3da28a9bfa46f0",
     "is_force": false
 }
