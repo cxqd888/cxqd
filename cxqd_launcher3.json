@@ -1,6 +1,6 @@
 {
-    "versionCode": 271,
-    "versionName": "v2.7.1",
+    "versionCode": 272,
+    "versionName": "v2.7.2",
     "update_time": "2026-06-17",
     "changelog": [
         "修复一些兼容问题",
@@ -9,9 +9,9 @@
         "",
         "此版本兼容车机桌面v2.6.0，车机桌面无需更新",
         "",
-        "网盘维护中…，网盘更新暂时不能用"
+        "网盘维护中，网盘更新暂时不能用"
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-    "md5": "3351676d6a851b225d3da28a9bfa46f0",
+    "md5": "ab0f5397810cc0f50f35024f168dbd8a",
     "is_force": false
 }
