@@ -1,17 +1,17 @@
 {
-    "versionCode": 260,
-    "versionName": "v2.6.0",
-    "update_time": "2026-06-32",
+    "versionCode": 270,
+    "versionName": "v2.7.0",
+    "update_time": "2026-06-17",
     "changelog": [
-        "修复版本号过低的BUG",
+        "修复一些兼容问题",
         "修复不存在的BUG",
         "增加更多的BUG",
-        "此版本支持车机桌面v2.6.0，车机桌面无需更新",
         "",
-        "如果无法在线更新请用网盘更新或者长按下面链接复制到浏览器打开",
-        "网盘链接：https://pan.quark.cn/s/dc5448bff81d"
+        "此版本兼容车机桌面v2.6.0，车机桌面无需更新",
+        "",
+        "网盘会员过期暂时用不了，需要网盘下载的等几天"
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-    "md5": "999a9b26aea071bc03b3b727a2c4eec5",
+    "md5": "de185c3f8752fd6975ead8e41cd5957f",
     "is_force": false
 }
