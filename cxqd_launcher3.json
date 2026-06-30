@@ -1,17 +1,15 @@
 {
-    "versionCode": 281,
-    "versionName": "v2.8.1",
-    "update_time": "2026-06-25",
+    "versionCode": 285,
+    "versionName": "v2.8.5",
+    "update_time": "2026-06-29",
     "changelog": [
-        "增加网速悬浮窗，实时查看网速",
-        "增加运存悬浮窗，实时查看已用运存百分比",
-        "更改部分UI",
+        "修复已知问题，提升用户体验",
         "",
         "此版本兼容车机桌面v2.6.0，车机桌面无需更新",
         "",
         "网盘维护中，网盘更新暂时不能用"
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-    "md5": "c54fcc6c905462be6f129a82c998df28",
+    "md5": "f4f430608ba103c4cda385d6017e15da",
     "is_force": false
 }
