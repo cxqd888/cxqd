@@ -2,6 +2,6 @@
     "cxqd": 88,
     "changelog": "新年快乐",
     "is_force": false,
-    "net_disk_enable": false,
+    "net_disk_enable": true,
     "net_disk_tip": "网盘维护中…时间不定"
 }
