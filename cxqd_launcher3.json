@@ -1,14 +1,17 @@
 {
-    "versionCode": 285,
-    "versionName": "v2.8.5",
-    "update_time": "2026-06-29",
+    "versionCode": 300,
+    "versionName": "v3.0.0",
+    "update_time": "2026-07-07",
     "changelog": [
-        "修复已知问题，提升用户体验",
+        "增加迪加指令区悬浮窗",
+        "增加桌面迪加指令按钮大小调节(长按添加打开)",
+        "增加桌面迪加指令按钮间距调节(长按添加打开)",
+        "其他一些优化调整",
         "",
-        "此版本兼容车机桌面v2.6.0，车机桌面无需更新",
+        "此版本需要车机桌面v3.0.0",
         ""
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-    "md5": "f4f430608ba103c4cda385d6017e15da",
+    "md5": "c84e72a3c5a733d0894cfabefd9f9ab1",
     "is_force": false
 }
