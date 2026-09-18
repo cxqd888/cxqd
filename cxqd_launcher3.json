@@ -1,17 +1,19 @@
 {
-    "versionCode": 300,
-    "versionName": "v3.0.0",
-    "update_time": "2026-07-07",
+    "versionCode": 450,
+    "versionName": "v4.5.0",
+    "update_time": "2026-09-18",
     "changelog": [
-        "增加迪加指令区悬浮窗",
-        "增加桌面迪加指令按钮大小调节(长按添加打开)",
-        "增加桌面迪加指令按钮间距调节(长按添加打开)",
-        "其他一些优化调整",
+        "增加 360全景方控切换视觉",
+        "增加 调用比亚迪自带语音播报",
+        "增加 自带语音播报支持切换音色",
+        "增加 MultiTTS 语音锁定导航音量通道",
+        "增加 切换音色指令及读取音色",
+        "修改 把首页的长按⊕功能移到设置页",
+        "修改 调整部分ui及提示语",
         "",
-        "此版本需要车机桌面v3.0.0",
         ""
     ],
     "download_url": "https://pan.quark.cn/s/dc5448bff81d",
-    "md5": "c84e72a3c5a733d0894cfabefd9f9ab1",
-    "is_force": false
+    "md5": "52207a8bedc8ad509ce478d5bd17a9be",
+    "is_force": true
 }
