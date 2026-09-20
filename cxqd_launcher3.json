@@ -1,0 +1,17 @@
+{
+    "versionCode": 460,
+    "versionName": "v4.6.0",
+    "update_time": "2026-09-20",
+    "changelog": [
+        "增加 提示语指令，例如：提示你好",
+        "增加 提示语指令自定义文字及背景颜色",
+        "增加 [查看数据]一些数据显示",
+        "修复 执行多命令可能导致某条命令不生效",
+        "修改 调整部分ui及提示语",
+        "",
+        ""
+    ],
+    "download_url": "https://pan.quark.cn/s/dc5448bff81d",
+    "md5": "a30d2168d575a6fa55b25d424ab3ef97",
+    "is_force": false
+}
